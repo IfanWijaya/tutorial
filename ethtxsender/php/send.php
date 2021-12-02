@@ -88,6 +88,10 @@ class EthTxSender {
 
 $sender = new EthTxSender();
 
+/*
+    cli command:
+    php send.php 0.025 0x34F95fab94dC9C1278C2feDf63841ae6a145F593
+*/
 $txHash = $sender->SendEth($argv[1], $argv[2]);
 
 echo PHP_EOL;
