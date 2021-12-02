@@ -1,0 +1,8 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "web3p/ethereum-tx": "^0.4.1",
+        "sc0vu/web3.php": "^0.1.4",
+        "litipk/php-bignumbers": "^0.8"
+    }
+}
