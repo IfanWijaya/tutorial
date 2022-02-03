@@ -1,0 +1,16 @@
+
+
+- Smart Contract (Ethereum)
+    1. Code / Program yang disimpan di dalam blockchain.
+    2. Merupakan Ethereum account. memiliki address dan bisa mengirimkan transaksi ke network.
+    3. Memiliki format address yang sama dengan EOA account.
+    4. Tidak punya akses ke data diluar blockchain.
+    5. Programming Language: Solidity, Vyper, Yul.
+    6. Digunakan juga di EVM based chain: BSC, Polygon, Avalanche, Fantom, dll.
+
+- ERC20
+    1. Token Standard dari EIP-20
+    2. Standar untuk Fungible Token
+    3. Digunakan untuk smart contract
+
+
